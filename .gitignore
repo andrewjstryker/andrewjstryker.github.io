@@ -6,7 +6,9 @@ _site
 Gemfile
 Gemfile.lock
 node_modules
-package.json# Created by https://www.gitignore.io/api/vim
+package.json
+
+# Created by https://www.gitignore.io/api/vim
 
 ### Vim ###
 [._]*.s[a-w][a-z]
